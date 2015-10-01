@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "reddit retitler",
     "description": "A small extension to change the reddit homepage's subtitle",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "mammothbane",
     "homepage_url": "https://github.com/mammothbane/reddit-retitler",
     "icons": {
@@ -18,5 +18,8 @@
 	    ],
 	    "js": [ "main.js" ]
 	}
+    ],
+    "permissions": [
+	"https://www.reddit.com/*"
     ]
 }
