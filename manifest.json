@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "reddit retitler",
-    "description": "A small extension to change the reddit homepage's subtitle",
-    "version": "1.0.1",
+    "description": "A small extension to change the subtitle of the reddit homepage",
+    "version": "1.0.2",
     "author": "mammothbane",
     "homepage_url": "https://github.com/mammothbane/reddit-retitler",
     "icons": {
